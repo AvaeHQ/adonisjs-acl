@@ -76,3 +76,6 @@ If you discover any security related issues, please email [zacchaeus@shagital.co
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+
+<!-- Security scan triggered at 2026-08-31 16:47:36 -->
